@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Investment Strategies",
+    "prompts": [
+      "What's the best strategy to invest in crypto?",
+      "Which cryptocurrencies should I consider for long-term growth?",
+      "Can you provide a list of top 10 potential coins to invest in based on market trends?"
+    ]
+  },
+  {
+    "name": "Marketing Prompts",
+    "prompts": [
+      "How do I create compelling ad copy for my crypto product?",
+      "What's the most effective way to advertise our new NFT collection?",
+      "Can you suggest creative ideas for a limited-time crypto giveaway?"
+    ]
+  },
+  {
+    "name": "Customer Support Scenarios",
+    "prompts": [
+      "How do I handle a customer who lost access to their cryptocurrency wallet?",
+      "What's the best response when someone asks about the security of our platform?",
+      "Can you provide a script for responding to a worried customer concerned about crypto market volatility?"
+    ]
+  },
+  {
+    "name": "Education & Onboarding",
+    "prompts": [
+      "How do I explain the benefits of staking crypto to a beginner?",
+      "What's an easy-to-understand explanation of what decentralized finance is?",
+      "Can you provide a step-by-step guide on how to buy and sell cryptocurrencies for first-time buyers?"
+    ]
+  },
+  {
+    "name": "Developer Tools",
+    "prompts": [
+      "How can I leverage blockchain technology in my crypto app?",
+      "What are the most popular open-source libraries for working with cryptocurrencies?",
+      "Can you provide code snippets to integrate our platform with major cryptocurrency exchanges?"
+    ]
+  }
+]

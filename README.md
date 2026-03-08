@@ -1,4 +1,4 @@
-# 100-expert-opinion-crypto-opportunity-prompts:-copy-paste-ai
+# 100 Expert Opinion Crypto Opportunity Prompts: Copy-Paste AI Commands That Actually Work
 
 Unlock the full potential of your crypto business with our premium pack of 100 ready-to-use prompts for ChatGPT or Claude. Position yourself as a cutting-edge AI power user and skyrocket your sales wi
 
@@ -6,7 +6,7 @@ Unlock the full potential of your crypto business with our premium pack of 100 r
 
 | Property | Value |
 |---|---|
-| Records | 3 |
+| Records | 5 |
 | Format | JSON |
 | License | CC BY 4.0 |
 | Updated | See commits |
@@ -14,7 +14,14 @@ Unlock the full potential of your crypto business with our premium pack of 100 r
 ## Sample
 
 ```json
-Keys: title, description, price
+{
+  "name": "Investment Strategies",
+  "prompts": [
+    "What's the best strategy to invest in crypto?",
+    "Which cryptocurrencies should I consider for long-term growth?",
+    "Can you provide a list of top 10 potential coins to invest in based on market trends?"
+  ]
+}
 ```
 
 ## Usage
